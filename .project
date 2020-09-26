@@ -14,4 +14,16 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>src/no/hvl/dat100/lab5/tabeller/Tabeller.java</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Downloads/home-work/home-work/src/home/work/Tabeller.java</locationURI>
+		</link>
+		<link>
+			<name>src/no/hvl/dat100/lab6/matriser/Matriser.java</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Downloads/home-work/home-work/src/home/work/Matriser.java</locationURI>
+		</link>
+	</linkedResources>
 </projectDescription>
